@@ -54,8 +54,6 @@ namespace ReportsWebFormsSamples.Controllers
                     "../../bold-reports/common/bold.reports.widgets.min.js",
                     //Chart component script
                     "../../bold-reports/data-visualization/ej.chart.min.js",
-                    //Map component script
-                    "../../bold-reports/data-visualization/ej.map.min.js",
                     //Report Viewer Script
                     "../../bold-reports/bold.report-viewer.min.js"
                 };
